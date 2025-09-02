@@ -53,7 +53,7 @@ Certifique-se de ter instalado em sua máquina:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/ignews.git
+git clone https://github.com/henrylsilveira/ignews.git
 
 # Acesse a pasta do projeto
 cd ignews
